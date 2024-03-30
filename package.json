@@ -1,6 +1,6 @@
 {
-  "name": "online-class-linkdin",
-  "version": "1.0.0",
+  "name": "fan66-simple-calculator",
+  "version": "1.1.0",
   "description": "A Simple Calculator with Typescript and Inquirer.",
   "main": "index.js",
   "type": "module",
